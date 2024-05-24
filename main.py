@@ -1,1 +1,2 @@
-print ('ola mundo')
+print(':0')
+print('12' )
