@@ -1,7 +1,7 @@
 nome = input("Digite seu nome:")
 idade = int(input("Digite sua idade: "))
 peso = int( input("Digite seu peso:"))
-
+casa = (int(input("Onde mora?:")))
 print(nome)
 print(idade)
 print(peso)
